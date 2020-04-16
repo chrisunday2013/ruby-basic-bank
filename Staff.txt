@@ -1,0 +1,4 @@
+Username = "Chrisunday"
+Password = "uche"
+Email
+Full Name
